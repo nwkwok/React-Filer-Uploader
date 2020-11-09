@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/nwkwok/React-Filer-Uploader#readme",
   "dependencies": {
+    "axios": "^0.21.0",
     "express": "^4.17.1",
     "express-fileupload": "^1.2.0"
   },
